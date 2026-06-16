@@ -11,7 +11,7 @@ if deseja == "sim":
         partidas += 1
         acertos = 0
 
-        print("\nPARTIDA", partidas)
+        print("PARTIDA", partidas)
 
         print("1) Qual é a capital do Brasil?")
         print("A) Rio de Janeiro")
